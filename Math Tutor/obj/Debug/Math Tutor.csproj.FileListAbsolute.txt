@@ -1,0 +1,9 @@
+C:\Users\Craig\Desktop\CIS 202 Programs\Math Tutor\Math Tutor\bin\Debug\Math Tutor.exe.config
+C:\Users\Craig\Desktop\CIS 202 Programs\Math Tutor\Math Tutor\bin\Debug\Math Tutor.exe
+C:\Users\Craig\Desktop\CIS 202 Programs\Math Tutor\Math Tutor\bin\Debug\Math Tutor.pdb
+C:\Users\Craig\Desktop\CIS 202 Programs\Math Tutor\Math Tutor\obj\Debug\Math Tutor.csprojResolveAssemblyReference.cache
+C:\Users\Craig\Desktop\CIS 202 Programs\Math Tutor\Math Tutor\obj\Debug\Math_Tutor.Form1.resources
+C:\Users\Craig\Desktop\CIS 202 Programs\Math Tutor\Math Tutor\obj\Debug\Math_Tutor.Properties.Resources.resources
+C:\Users\Craig\Desktop\CIS 202 Programs\Math Tutor\Math Tutor\obj\Debug\Math Tutor.csproj.GenerateResource.Cache
+C:\Users\Craig\Desktop\CIS 202 Programs\Math Tutor\Math Tutor\obj\Debug\Math Tutor.exe
+C:\Users\Craig\Desktop\CIS 202 Programs\Math Tutor\Math Tutor\obj\Debug\Math Tutor.pdb
